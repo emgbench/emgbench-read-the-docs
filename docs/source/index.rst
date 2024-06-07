@@ -1,10 +1,11 @@
-Welcome to Lumache's documentation!
+EMGBench documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**EMGBench** is a Python library for benchmarking machine learning algorithms
+on a variety of electromyography gesture datasets for out-of-distribution 
+generalization and adaptation. 
+
+The main project webpage is located at `https://emgbench.github.io/`.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -13,7 +14,7 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Lumache hosts its documentation on Read the Docs.
+EMGBench hosts its documentation on Read the Docs.
 
 Contents
 --------
