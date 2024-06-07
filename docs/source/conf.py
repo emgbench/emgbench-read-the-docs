@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'EMG Benchmarking'
+project = 'EMGBench'
 copyright = '2024, Jehan Yang'
 author = 'Jehan Yang'
 
